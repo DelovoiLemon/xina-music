@@ -1,0 +1,4 @@
+github.com/Amatsagu/Tempest v1.0.4 h1:06VzslAldaRAJa716l0/FSKel4govPK38+jF7Ow45Yg=
+github.com/Amatsagu/Tempest v1.0.4/go.mod h1:XvWnNglwFJxq0LtDXb9YQwbBdZXkjIKYVoxhxPF+pBA=
+github.com/joho/godotenv v1.4.0 h1:3l4+N6zfMWnkbPEXKng2o2/MR5mSwTrBih4ZEkkz1lg=
+github.com/joho/godotenv v1.4.0/go.mod h1:f4LDr5Voq0i2e/R5DDNOoa2zzDfwtkZa6DnEwAbqwq4=
